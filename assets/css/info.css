@@ -17,7 +17,7 @@ html,body {
   display: flex;
   flex-direction: column;
   position: relative;
-  background: url("../img/bg/tickets.png") no-repeat;
+  background: url("../img/bg/tickets.png.jpeg") no-repeat;
   background-size: 100% 100%;
   height: 500px;
   align-items: center;
